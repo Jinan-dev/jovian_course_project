@@ -1,4 +1,4 @@
-Year,Month,Monthly Anomaly, Monthly Unc.,Annual Anomaly,Annual Unc.,Five-year Anomaly,Five-year Unc.,Ten-year Anomaly,Ten-year Unc.,Twenty-year Anomaly,Twentry-year Unc.
+Year,Month,Monthly_Anomaly, Monthly Unc.,Annual_Anomaly,Annual Unc.,Five_year_Anomaly,Five-year Unc.,Ten_year_Anomaly,Ten-year Unc.,Twenty_year_Anomaly,Twentry-year Unc.
 1811,8,-0.225,2.248,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 1811,9,-0.502,2.366,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
 1811,10,-3.214,2.893,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
